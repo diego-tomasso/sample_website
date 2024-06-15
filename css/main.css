@@ -7,3 +7,28 @@
 .nav-deco {
   text-decoration: none;
 }
+.image-link {
+  text-decoration: none;
+}
+.main-header {
+  text-align: center;
+  margin: 0 0 80px;
+}
+.main-picture {
+  display: block;
+  margin: 0 auto;
+}
+.secondary-picture {
+  float: left;
+  margin: 0 40px 0 0;
+}
+.blockquote {
+  font-style: italic;
+  font-size: 20px;
+}
+.ishmael {
+  font-style: normal;
+  font-size: 24px;
+  font-weight: bold;
+  color: #ff0000;
+}
